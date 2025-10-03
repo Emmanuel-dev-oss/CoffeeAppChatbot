@@ -238,9 +238,8 @@ body {
 /* Responsiveness media query for mobilr screens */
 @media (max-width: 520px) {
     .image {
-        width: 330px;
-        height: 330px;
-        margin-left: 80px;
+        width: 230px;
+        height: 230px;
     }
 
     #chatbot-toggler {
