@@ -3,7 +3,7 @@ import ChatbotIcon from "./components/ChatbotIcon";
 import ChatForm from "./components/ChatForm";
 import ChatMessage from "./components/ChatMessage";
 import { companyInfo } from "./companyinfo";
-import myImage from "../public/cup_of_coffee.png";
+import myImage from "../public/Cupofcoffee2d2.png";
 
 
 const App = () => {
