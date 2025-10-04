@@ -46,3 +46,21 @@ Built with **React.js** and integrated with **Google Gemini API**, this chatbot 
    git clone https://github.com/yourusername/aroma-beans-chatbot.git
    cd aroma-beans-chatbot
 
+---
+
+ ## 📌 Future Improvements
+
+- 🧾 **Order placement integration.** -
+
+- 🛒 **Shopping cart functionality.** -
+
+- 🌍 **Multi-language support (Bangla + English).** -
+
+- 🤖 **Smarter AI fine-tuned for customer service.** -
+
+---
+
+- 🔗 **GitHub Repository:** [CoffeeAppChatbot](https://github.com/Emmanuel-dev-oss/CoffeeAppChatbot)  
+🌐 **Live Demo:** [coffee-app-chatbot.vercel.app](https://coffee-app-chatbot.vercel.app/)
+
+---
