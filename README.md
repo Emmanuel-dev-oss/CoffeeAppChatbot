@@ -1,16 +1,48 @@
-# React + Vite
+# ☕ Aroma Beans Coffee Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aroma Beans Coffee Chatbot is an interactive web-based assistant designed to provide customers with instant information about **Aroma Beans Coffee**.  
+It can answer questions about our **menu, business hours, location, and services**, creating a smooth and engaging customer experience.  
 
-Currently, two official plugins are available:
+Built with **React.js** and integrated with **Google Gemini API**, this chatbot simulates natural conversations with customers directly on the website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📖 Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🗨️ **Interactive Chatbot** – Answers FAQs about the coffee shop (menu, hours, location, etc.).  
+- ☕ **Menu Support** – Provides full menu details (coffee, tea, snacks, pastries).  
+- 🌐 **Company Info** – Introduction, description, and business details of Aroma Beans Coffee.  
+- 📱 **Responsive Design** – Works smoothly across devices.  
+- ⚡ **Gemini API Integration** – Generates AI-powered responses.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏗️ Tech Stack
+
+- **Frontend:** React.js (Vite)  
+- **Styling:** CSS  
+- **Backend / API:** Google Generative Language (Gemini) API  
+- **Deployment:** Vercel 
+
+---
+
+## 📂 Project Structure
+/src
+/components
+├── ChatbotIcon.jsx
+├── ChatForm.jsx
+├── ChatMessage.jsx
+├── App.jsx
+├── companyinfo.js
+├── index.css
+└── main.jsx
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/aroma-beans-chatbot.git
+   cd aroma-beans-chatbot
+
